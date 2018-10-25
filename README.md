@@ -1,4 +1,4 @@
-# Custom-Navigation-Drawer
+![alt text](https://drive.google.com/uc?id=1frkB2g3FGLCBDN6icLGAJ9NM_k4mhCcD)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
@@ -7,31 +7,11 @@
 
 <a href='https://ko-fi.com/O5O2BPL1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-
-
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Custom%20Navigation%20Drawer-green.svg?style=flat )]( https://android-arsenal.com/details/1/6876 )
-
-
-Custom Navigation Drawer Library for Android
-
-Custom Navigation Drawer Library to navigate through option tabs with smooth slide.
-
 It has smooth zoom-in, zoom-out animation when switched from one fragment to another.
 
 Still in Active Development.
 
-
-
-<table>
-  <tr>
-    <td>
-       <img src="https://drive.google.com/uc?id=1lD36VKEDD6PIkFZo6nicjx_Du8qh5_kE" width="300">
-    </td>
-    <td>
-      <img src="https://drive.google.com/uc?id=1TZHRXq-8Y75Pxk05YiF0tfQNSxhjrnKW" width="300">
-    </td>    
-  </tr>
-  </table>
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Custom%20Navigation%20Drawer-green.svg?style=flat )]( https://android-arsenal.com/details/1/6876 )
   
   ### Version
 [![](https://jitpack.io/v/shrikanth7698/Custom-Navigation-Drawer.svg)](https://jitpack.io/#shrikanth7698/Custom-Navigation-Drawer)
